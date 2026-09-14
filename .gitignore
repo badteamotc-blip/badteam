@@ -1,0 +1,5 @@
+bot_database.db*
+pay_video.mp4
+ots_instances/
+__pycache__/
+.env
